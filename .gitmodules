@@ -1,0 +1,3 @@
+[submodule "node-dss"]
+	path = node-dss
+	url = https://github.com/bengreenier/node-dss.git
