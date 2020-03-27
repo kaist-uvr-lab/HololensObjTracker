@@ -61,6 +61,7 @@ crashlytics-build.properties
 node-dss
 *.log
 
+/WebRTCTest/App/
 /WebRTCTest/[Ll]ibrary/
 /WebRTCTest/[Tt]emp/
 /WebRTCTest/[Oo]bj/
